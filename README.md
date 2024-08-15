@@ -50,3 +50,8 @@ jupyter notebook cnn.ipynb
 
 ## Results
 The model is evaluated using training and validation losses, as well as accuracy metrics, which are plotted at the end of the notebook. The plots provide insights into the model's learning progress and performance over time.
+
+## Datasets
+First one is more easy classification than second one.
+https://www.kaggle.com/datasets/undersc0re/fake-vs-real-face-classification
+https://www.kaggle.com/datasets/hamzaboulahia/hardfakevsrealfaces
