@@ -53,5 +53,5 @@ The model is evaluated using training and validation losses, as well as accuracy
 
 ## Datasets
 First one is more easy classification than second one.
-https://www.kaggle.com/datasets/undersc0re/fake-vs-real-face-classification
-https://www.kaggle.com/datasets/hamzaboulahia/hardfakevsrealfaces
+1. https://www.kaggle.com/datasets/undersc0re/fake-vs-real-face-classification
+2. https://www.kaggle.com/datasets/hamzaboulahia/hardfakevsrealfaces
