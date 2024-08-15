@@ -13,7 +13,7 @@ The project includes the following key sections:
 5. **Results Visualization**: The training and validation losses, as well as the accuracy, are visualized over epochs to analyze the model's performance.
 
 ## Prerequisites
-
+ 
 To run this notebook, you need to have the following installed:
 
 - Python 3.12.0
